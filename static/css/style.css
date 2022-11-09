@@ -434,11 +434,11 @@ tr.total-amount {
     table td:last-child {
         border-bottom: 0;
     }
-    form.onlyBtn {
-        top: auto;
+    /*form.onlyBtn {
+        top: unset;
         bottom: 0;
         right: 33%;
-    }
+    }*/
 }
 
 form.del {
